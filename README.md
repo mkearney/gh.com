@@ -5,9 +5,17 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/mkearney/gh.com.svg?branch=master)](https://travis-ci.org/mkearney/gh.com)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/gh.com)](https://CRAN.R-project.org/package=gh.com)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/mkearney/gh.com?branch=master&svg=true)](https://ci.appveyor.com/project/mkearney/gh.com)
 <!-- badges: end -->
 
-The goal of gh.com is to …
+Easily scrape repo search results from Github.com
 
 ## Installation
 
