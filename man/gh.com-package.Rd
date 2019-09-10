@@ -9,8 +9,16 @@
 gh.com makes it easy to search for and retrieve information about
 repositories github.com
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/mkearney/gh.com}
+  \item Report bugs at \url{https://github.com/mkearney/gh.com/issues}
+}
+
+}
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (YOUR-ORCID-ID)
+\strong{Maintainer}: Michael W. Kearney \email{kearneymw@missouri.edu} (0000-0002-0730-4694)
 
 }
 \keyword{internal}

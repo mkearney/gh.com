@@ -23,8 +23,8 @@ scrape_github <- function(query, pages = NULL) {
     length(query) == 1L
   )
   assert_that(
-    is.numeric(pages),
-    length(pages) == 1L
+    is.numeric(max_pages),
+    length(max_pages) == 1L
   )
   query <- utils::URLencode(query)
 
